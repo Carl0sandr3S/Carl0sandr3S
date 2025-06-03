@@ -1,5 +1,9 @@
 ## Hola a todos! 👋
-:computer: Soy ingeniero electrónico, apasionado por el Big Data  y el desarrollo de arquitectura de datos. Me encanta asumir nuevos retos.:muscle:
+:computer: Soy ingeniero electrónico, apasionado por el Big Data  y el desarrollo de arquitectura de datos. Me encanta asumir nuevos
+
+### Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--
 **Carl0sandr3S/Carl0sandr3S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
