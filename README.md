@@ -2,8 +2,9 @@
 :computer: Soy ingeniero electrónico, apasionado por el Big Data  y el desarrollo de arquitectura de datos. Me encanta asumir nuevos
 
 ### Actividad reciente
-<!--RESENT_ACTIVITY:start-->
-<!--RESENT_ACTIVITY:last_update-->
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 **Carl0sandr3S/Carl0sandr3S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
