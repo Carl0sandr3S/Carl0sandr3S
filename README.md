@@ -3,8 +3,11 @@
 
 ### Un poco sobre mi.
 :evergreen_tree: Amante de la naturaleza
+
 :running: Me encanta el deporte
+
 :scroll: Me apaciona la lectura
+
 :snowflake: Fan de Juego de Tronos, ¡¡¡¡ the winter is coming!!!!
 ### Actividad reciente
 
