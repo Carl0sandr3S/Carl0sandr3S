@@ -10,7 +10,7 @@
 
 :snowflake: Fan de Juego de Tronos, ¡¡¡¡ the winter is coming!!!!
 
-### Tegnoligías Favoritas
+### Tecnoligías Favoritas
 Python | PySpark | SQL | GCP | BigQuery | Kafka | Airflow | Docker | Terraform
 
 ### Actividad reciente
