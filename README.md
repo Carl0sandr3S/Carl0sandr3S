@@ -1,5 +1,5 @@
 ## Hola a todos! 👋
-:computer: Soy ingeniero electrónico, apasionado por el Big Data  y el desarrollo de arquitectura de datos. Me encanta asumir nuevos
+:computer: Soy un Ingeniero de Electrónico con experiencia en el diseño, construcción y optimización de pipelines de datos escalables. Me apasiona transformar datos en conocimiento útil mediante el uso de tecnologías modernas como Apache Spark, Python, SQL y plataformas en la nube como Google Cloud Platform.
 
 ### Actividad reciente
 
