@@ -9,6 +9,10 @@
 :scroll: Me apaciona la lectura
 
 :snowflake: Fan de Juego de Tronos, ¡¡¡¡ the winter is coming!!!!
+
+### Tegnoligías Favoritas
+Python | PySpark | SQL | GCP | BigQuery | Kafka | Airflow | Docker | Terraform
+
 ### Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
