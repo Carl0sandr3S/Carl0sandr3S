@@ -1,6 +1,11 @@
 ## Hola a todos! 👋
 :computer: Soy un Ingeniero de Electrónico con experiencia en el diseño, construcción y optimización de pipelines de datos escalables. Me apasiona transformar datos en conocimiento útil mediante el uso de tecnologías modernas como Apache Spark, Python, SQL y plataformas en la nube como Google Cloud Platform y AWS.
 
+### Un poco sobre mi.
+:evergreen_tree: Amante de la naturaleza
+:running: Me encanta el deporte
+:scroll: Me apaciona la lectura
+:snowflake: Fan de Juego de Tronos, ¡¡¡¡ the winter is coming!!!!
 ### Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
