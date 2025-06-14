@@ -16,14 +16,14 @@ Python | PySpark | SQL | GCP | BigQuery | Kafka | Airflow | Docker | Terraform
 ### Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/Carl0sandr3S/mi_primer_paquete/releases/tag/v0.1.0) in [Carl0sandr3S/mi_primer_paquete](https://github.com/Carl0sandr3S/mi_primer_paquete)<br>
-2. ⬆️ Pushed 1 commit(s) to [Carl0sandr3S/mi_primer_paquete](https://github.com/Carl0sandr3S/mi_primer_paquete)<br>
-3. 📔 Created new repository [Carl0sandr3S/mi_primer_paquete](https://github.com/Carl0sandr3S/mi_primer_paquete)<br>
-4. ⬆️ Pushed 1 commit(s) to [Carl0sandr3S/cuerto_repositorio](https://github.com/Carl0sandr3S/cuerto_repositorio)<br>
-5. ⬆️ Pushed 1 commit(s) to [Carl0sandr3S/cuerto_repositorio](https://github.com/Carl0sandr3S/cuerto_repositorio)<br>
+1. ⬆️ Pushed 1 commit(s) to [Carl0sandr3S/python](https://github.com/Carl0sandr3S/python)<br>
+2. 📔 Created new repository [Carl0sandr3S/python](https://github.com/Carl0sandr3S/python)<br>
+3. ⬆️ Pushed 1 commit(s) to [Carl0sandr3S/Carl0sandr3S](https://github.com/Carl0sandr3S/Carl0sandr3S)<br>
+4. ⬆️ Pushed 1 commit(s) to [Carl0sandr3S/Carl0sandr3S](https://github.com/Carl0sandr3S/Carl0sandr3S)<br>
+5. ⬆️ Pushed 1 commit(s) to [Carl0sandr3S/Carl0sandr3S](https://github.com/Carl0sandr3S/Carl0sandr3S)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 13th, 2025, 1:01:42 PM
+Last Updated: Saturday, June 14th, 2025, 12:51:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
